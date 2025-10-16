@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "288364389377",
+    "project_id": "splitup-adf6c",
+    "storage_bucket": "splitup-adf6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288364389377:android:6611720c64bf5d7edf8c00",
+        "android_client_info": {
+          "package_name": "com.example.split"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKFEplCWeUTuPAIhTfRjhffMEUACfre4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288364389377:android:780608b042661e10df8c00",
+        "android_client_info": {
+          "package_name": "com.example.splitpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKFEplCWeUTuPAIhTfRjhffMEUACfre4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288364389377:android:33bcf0c6dbbee9d8df8c00",
+        "android_client_info": {
+          "package_name": "com.example.splitup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKFEplCWeUTuPAIhTfRjhffMEUACfre4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
