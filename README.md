@@ -18,7 +18,7 @@
    1. Clone the repository:
    
       ```bash
-      git clone https://github.com/vasuzadafiya/SplitMate.git
+      https://github.com/bavneeksingh/SplitWise.git
       ```
       
    2. Open the project in Android Studio.
